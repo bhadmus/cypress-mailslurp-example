@@ -1,0 +1,14 @@
+{
+  "createAccountButton": "[class='sc-ftTHYK djAXpA']",
+  "fullnameField": "#fullname",
+  "biznameField": "#businessname",
+  "bizemailField": "#businessemail",
+  "phoneField": "#businessphonenumber",
+  "bizregField": "#businessRegNum",
+  "nextButton": "[class='sc-ftTHYK emukjx']",
+  "sourceTag": "[class='sc-eDWCr kNYZsb']",
+  "chooseIG": "[class='MimaDropdown_select__options__xLi7K']:nth-child(3)",
+  "passwordField": "#password",
+  "signUpButton": "[class='sc-ftTHYK emukjx']",
+  "otpField": "input"
+}
